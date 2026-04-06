@@ -71,3 +71,44 @@ Los datos antiguos o innecesarios se eliminan o se archivan según normativa.
 Transformar datos en información permite mejorar las ventas, entender a los clientes y tomar decisiones estratégicas basadas en hechos.
 
 ---
+
+## 7) Tabla
+
+| Dato | Información |
+|------|-------------|
+| Usuario visita producto X | Producto X es popular |
+| Compra realizada a las 20:00 | Hora punta de ventas |
+| Usuario compra tecnología | Preferencia por productos tecnológicos |
+| Tiempo alto en una página | Producto genera interés |
+| Muchos clics sin compra | Problema en el proceso de compra |
+
+---
+
+## 8) Diagrama
+
+```mermaid
+graph LR
+
+A[Usuario] --> B[App Web]
+B --> C[Base de datos]
+C --> D[Procesamiento]
+D --> E[Análisis]
+E --> F[Decisión]
+```
+
+---
+
+## 9) Problemas
+
+- **Problema 1:** Datos incorrectos o duplicados  
+- **Solución 1:** Validación y limpieza de datos  
+
+- **Problema 2:** Datos incompletos  
+- **Solución 2:** Formularios obligatorios y verificación automática  
+
+---
+
+## 10) Fuente
+
+- **Enlace:**  
+https://www.ibm.com/topics/data-analytics
