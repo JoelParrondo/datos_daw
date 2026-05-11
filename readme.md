@@ -34,6 +34,7 @@
 - La IA aplica todo esto para automatizar decisiones y procesos.
 
 ---
+
 ## 4) Pipeline
 
 1. Captura de datos  
@@ -80,3 +81,45 @@
   Mostrar productos personalizados a cada usuario.
 
 ---
+
+## 7) Tabla
+
+| Concepto | Función |
+|---|---|
+| Big Data | Gestionar grandes cantidades de datos |
+| Análisis de datos | Obtener información útil |
+| Machine Learning | Aprender patrones automáticamente |
+| Deep Learning | Resolver tareas complejas mediante redes neuronales |
+| IA | Automatizar decisiones inteligentes |
+
+---
+
+## 8) Diagrama
+
+```mermaid
+graph TD
+A[Captura de datos] --> B[Almacenamiento]
+B --> C[Procesamiento]
+C --> D[Análisis]
+D --> E[Machine Learning]
+E --> F[IA y decisiones]
+```
+
+---
+
+## 9) Problemas
+
+| Problema | Solución |
+|---|---|
+| Gran cantidad de datos desordenados | Uso de bases de datos Big Data y limpieza de datos |
+| Predicciones incorrectas del modelo | Reentrenamiento y mejora del algoritmo |
+
+---
+
+## 10) Fuente
+
+| Recurso | Enlace |
+|---|---|
+| IBM Big Data | https://www.ibm.com/topics/big-data |
+| Google AI | https://ai.google |
+| Microsoft IA | https://www.microsoft.com/ai |
