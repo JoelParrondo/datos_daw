@@ -34,3 +34,49 @@
 - La IA aplica todo esto para automatizar decisiones y procesos.
 
 ---
+## 4) Pipeline
+
+1. Captura de datos  
+2. Almacenamiento  
+3. Procesamiento  
+4. Análisis  
+5. Entrenamiento del modelo IA  
+6. Predicción o recomendación  
+7. Toma de decisiones  
+
+---
+
+## 5) 5V del Big Data
+
+- **Volumen:**  
+  Grandes cantidades de datos de clientes y productos.
+
+- **Velocidad:**  
+  Datos generados en tiempo real durante las compras.
+
+- **Variedad:**  
+  Datos estructurados y no estructurados (texto, imágenes, clics).
+
+- **Veracidad:**  
+  Calidad y fiabilidad de los datos recopilados.
+
+- **Valor:**  
+  Información útil para aumentar ventas y mejorar servicios.
+
+---
+
+## 6) Ejemplo aplicado
+
+- **Datos:**  
+  Historial de compras y búsquedas de clientes.
+
+- **Análisis:**  
+  Identificación de productos más visitados.
+
+- **Modelo:**  
+  Sistema de recomendación basado en Machine Learning.
+
+- **Decisión:**  
+  Mostrar productos personalizados a cada usuario.
+
+---
